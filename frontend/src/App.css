@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Cormorant Garamond', serif; 
+  /* font-family: 'Encode Sans Expanded', sans-serif; */
+
+
+
+
+}
+
+:root{
+  --black:#2C2B30;
+  --grey:#4A6163;
+  --white:#F9FAF4;
+  --orange:#F9A66C;
+  --yellow:#DDC94B;
+  --pink:#F17A7E;
+
+}
+
+
